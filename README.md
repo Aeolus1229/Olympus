@@ -2,7 +2,7 @@
 A place to dump Code snippets, Pixel art, etc.
 Well, Someone wanted me to make a github to post my pixel art, so here it is!
 
-==== If you want the Pixelart, go to the drop-down menu that says "main", and switch to "Pixelart" ====
+==== If you want the Pixelart, switch the branch from main to Pixelart ====
 
 Right now I'm working on a project called "Spelunker's Cave"
 
